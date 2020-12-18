@@ -102,6 +102,10 @@
 
 - [字体文件转成css3文件](https://transfonter.org/)
 
+- [仓库] [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)（中文）
+
+  这个仓库收集了30多种算法的 JavaScript 实现。
+
 - [电子书] [D3 In Depth](http://d3indepth.com/)
 
   可视化引擎 D3 的教程

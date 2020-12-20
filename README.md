@@ -57,9 +57,15 @@
 
 - [7天用Go从零实现Web框架Gee教程](https://geektutu.com/post/gee.html)
 
+- [Go101](https://go101.org/)（英文）
+
+  *Go 101 *是一本介绍 Go 语言的语法和各种细节的开源电子书，帮助读者深入彻底地了解 Go。
+
 - [Go 语言风格规范](https://github.com/uber-go/guide/blob/master/style.md)
 
   Uber 公司开源了该公司的《Go 语言风格规范》
+  
+  
 
 
 
@@ -81,12 +87,23 @@
 
   
 
-### futter开发工具
+### futter开发
 
 - [futteru在线UI布局studio](https://flutterstudio.app/)
 
+- [深入理解 flutter 的编译原理与优化](https://yuque.com/xytech/flutter/sh4fbm)（中文）
+
+  闲鱼是国内最早使用 Flutter 的 App 之一，这个系列的文章是他们对 Flutter 的使用总结。
 
 
+
+### k8s
+
+- [Kubernetes 入门教程](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)（英文）
+
+  Kubernetes 是现在最流行的容器集群管理工具，本文给出了一份上手教程，教大家怎么安装和使用它。
+
+  
 
 ### 后端相关
 
@@ -99,6 +116,10 @@
   
 
 ### WEB前端相关
+
+- [如何写一个模块打包器](https://adamisntdead.com/lets-write-a-module-bundler/)（英文）
+
+  Webpack 是现在最流行的模块打包器，可以将脚本依赖打包成一个文件。这到底是怎么实现的？如果自己写一个打包器，应该怎么写？
 
 - [字体文件转成css3文件](https://transfonter.org/)
 
@@ -121,11 +142,11 @@
   这是一个 React 表单库，基于 React Hooks，看上去代码相当简洁，star 也很高，也许以后可以摆脱那些笨重的表单组件了
 
   
+
   
+
   
-  
-  
-  
+
   
 
 ## 微屁恩客户端/服务端
@@ -176,6 +197,20 @@
 ## 资源
 
 - [收集对开发人员有用的定律、理论、原则和模式，比如摩尔定律、侯世达定律、墨菲定律等等](https://github.com/nusr/hacker-laws-zh)
+
+- [在 Google Bucket 托管静态网站](https://stephenmann.io/post/hosting-a-hugo-site-in-a-google-bucket/)（英文）
+
+  静态网站可以免费托管在很多地方，现在又多了一个选择：谷歌的云服务。这篇文章教你怎么做。
+
+- [如何破解路由器？](https://blog.websecurify.com/2018/06/router-hacking.html)（英文）
+
+  一份简单的教程，如何获得局域网路由器的 root 权限。
+
+- [逆向工程初学者教程](https://www.begin.re/)（英文）
+
+  向初学者介绍逆向工程的知识
+
+  
 
 - [电子书] [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/index.html)
 

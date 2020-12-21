@@ -198,6 +198,10 @@
 
 - [收集对开发人员有用的定律、理论、原则和模式，比如摩尔定律、侯世达定律、墨菲定律等等](https://github.com/nusr/hacker-laws-zh)
 
+- [模拟电路生成器](https://www.falstad.com/circuit/circuitjs.html)
+
+  生成模拟电路的网站。
+
 - [在 Google Bucket 托管静态网站](https://stephenmann.io/post/hosting-a-hugo-site-in-a-google-bucket/)（英文）
 
   静态网站可以免费托管在很多地方，现在又多了一个选择：谷歌的云服务。这篇文章教你怎么做。

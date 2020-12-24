@@ -5,7 +5,7 @@
 - [源码分析器 sourcetrail](https://www.sourcetrail.com/blog/open_source/)
 - [软件架构设计工具](https://app.terrastruct.com/)
 - [在同一个局域网里面不同系统的机器之间互传文件](https://nitroshare.net/)
-- 
+- [谷歌云服务](https://cloud.google.com/blog/products/gcp/introducing-headless-chrome-support-in-cloud-functions-and-app-engine)继支持 Node 8.0 以后，内置 Puppeteer （无头版 Chrome 浏览器）。
 
 
 
@@ -22,6 +22,12 @@
 ## 机器学习/操作
 
 - [Mac OS下的自动化界面操作](https://www.hammerspoon.org/)
+
+- [Basic Engine](https://basicengine.org/)
+
+  ![img](https://www.wangbase.com/blogimg/asset/201808/bg2018082418.jpg)
+
+  这是一个开源的低成本单板电脑，可以在家里自己制造。
 
 - [火星车](https://github.com/nasa-jpl/open-source-rover)
 
@@ -86,6 +92,10 @@
 ###   Rust学习教程
 
 - [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
+
+- [如何写一个脚本语言的虚拟机？](https://blog.subnetzero.io/post/building-language-vm-part-00/)（英文）
+
+  这组系列文章介绍脚本语言的运行虚拟机（VM）怎么写。
 
 - [电子书] [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 

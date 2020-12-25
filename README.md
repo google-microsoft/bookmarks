@@ -71,6 +71,12 @@
 
 - [7天用Go从零实现Web框架Gee教程](https://geektutu.com/post/gee.html)
 
+- [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
+
+  ![img](https://www.wangbase.com/blogimg/asset/201808/bg2018083119.jpg)
+
+  开源电子书，涵盖CGO、Go汇编语言、RPC实现、Web框架实现、分布式系统等高阶主题。
+
 - [最简单的反向代理服务器](https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b)（英文）
 
   本文介绍如何用 Go 语言实现一个最简单的反向代理服务器。
@@ -103,6 +109,10 @@
 
   
 
+### 小众语言学习
+
+
+
 
 
 ### mysql数据库设计
@@ -129,7 +139,11 @@
 
   
 
-### 后端相关
+### Java/kotlin
+
+- [JCSprout](https://github.com/crossoverJie/JCSprout)
+
+一个收集 Java 核心知识的中文库。
 
 - [crontab 编辑器](https://crontab.guru/)
 
@@ -222,6 +236,10 @@
 
 - [收集对开发人员有用的定律、理论、原则和模式，比如摩尔定律、侯世达定律、墨菲定律等等](https://github.com/nusr/hacker-laws-zh)
 
+- [Puppeteer 网页爬虫和自动化测试教程](https://github.com/csbun/thal)（中文）
+
+  想要学习浏览器自动化的同学，可以看看这篇中文教程。
+
 - [模拟电路生成器](https://www.falstad.com/circuit/circuitjs.html)
 
   生成模拟电路的网站。
@@ -260,6 +278,10 @@
 
 - [Node.js 编程最佳实践](https://github.com/goldbergyoni/nodebestpractices)
 
+- [node best practices](https://github.com/i0natan/nodebestpractices)
+
+  一个收集 Node 最佳实践的仓库。
+
 - [彩云小译-浏览器插件，一键将网页翻译成中英对照模式](https://github.com/ruanyf/weekly/issues/910)
 
 - [free-for.dev 该仓库收集各种可以免费使用的（或有免费层的）互联网服务](https://free-for.dev/)
@@ -268,4 +290,8 @@
 
   一个命令行的交互式备忘工具，你可以查阅某个命令的作用。
 
+  
+  
+  
+  
   

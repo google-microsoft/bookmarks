@@ -23,6 +23,10 @@
 
 - [Mac OS下的自动化界面操作](https://www.hammerspoon.org/)
 
+- [puppeteer-recorder](https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda)
+
+  Chrome 插件，可以将用户在浏览器里面的操作，自动生成对应的 Puppeteer 脚本。
+
 - [Basic Engine](https://basicengine.org/)
 
   ![img](https://www.wangbase.com/blogimg/asset/201808/bg2018082418.jpg)
@@ -111,7 +115,7 @@
 
 ### 小众语言学习
 
-
+- https://docs.julialang.org/en/v1/
 
 
 
@@ -235,6 +239,12 @@
 ## 资源
 
 - [收集对开发人员有用的定律、理论、原则和模式，比如摩尔定律、侯世达定律、墨菲定律等等](https://github.com/nusr/hacker-laws-zh)
+
+- [Crontab UI](https://www.ostechnix.com/how-to-easily-and-safely-manage-cron-jobs-in-linux/)
+
+  ![img](https://www.wangbase.com/blogimg/asset/201809/bg2018091420.jpg)
+
+  cron 是设置 Linux 系统定时任务的工具，只能在命令行下使用。现在，这个软件为它提供了图形界面。
 
 - [Puppeteer 网页爬虫和自动化测试教程](https://github.com/csbun/thal)（中文）
 

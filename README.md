@@ -21,7 +21,27 @@
 
 ## 机器学习/操作
 
+- [ml5.js](https://ml5js.org/)
+
+  一个基于 TensorFlow.js 的机器学习封装库，提供方便易用的 API，可以用于图像分类和视频分类等常见用途。
+
 - [Mac OS下的自动化界面操作](https://www.hammerspoon.org/)
+
+- [线性代数入门](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
+
+  ![img](https://www.wangbase.com/blogimg/asset/201811/bg2018112314.jpg)
+
+  本教程帮助初学者掌握，深度学习所需要的线性代数知识，每一部分都包含代码、示例和图表。
+
+- [TensorFlow.js 自动化 Chrome 恐龙游戏](https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907)（英文）
+
+  本文介绍如何使用 TensorFlow.js 进行深度学习，自动玩 Chrome 浏览器的恐龙跳跃游戏。
+
+- [机器学习解释](https://christophm.github.io/interpretable-ml-book/)
+
+  ![img](https://www.wangbase.com/blogimg/asset/201810/bg2018101915.jpg)
+
+  开源电子书，尝试用通俗的语言解释机器学习。
 
 - [puppeteer-recorder](https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda)
 
@@ -117,6 +137,10 @@
 
 - https://docs.julialang.org/en/v1/
 
+- [Erlang by Example](http://erlangbyexample.org/)
+
+  Erlang 语言的入门教程。
+
 
 
 ### mysql数据库设计
@@ -128,6 +152,12 @@
 ### futter开发
 
 - [futteru在线UI布局studio](https://flutterstudio.app/)
+
+- [如何使用 Flutter 制作一个 iPhone 计算器？](https://hackernoon.com/how-to-build-iphone-calculator-using-flutter-fe934ce78d7e)（英文）
+
+  ![img](https://www.wangbase.com/blogimg/asset/201811/bg2018110229.jpg)
+
+  Flutter 开发的一个简单教程。
 
 - [深入理解 flutter 的编译原理与优化](https://yuque.com/xytech/flutter/sh4fbm)（中文）
 
@@ -158,6 +188,16 @@
   
 
 ### WEB前端相关
+
+- [GoJS](https://github.com/NorthwoodsSoftware/GoJS)
+
+![img](https://www.wangbase.com/blogimg/asset/201811/bg2018113020.jpg)
+
+GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交互式图表和复杂的可视化图表。
+
+- [React.js 小书](http://huziketang.mangojuice.top/books/react/)
+
+国人编写的 React 入门教程。
 
 - [如何写一个模块打包器](https://adamisntdead.com/lets-write-a-module-bundler/)（英文）
 

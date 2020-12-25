@@ -21,6 +21,14 @@
 
 ## 机器学习/操作
 
+- [rrweb](https://github.com/rrweb-io/rrweb)
+
+一个可以录制网页操作的 JS 库，不是录制成视频，而是将用户的每一个操作，录制成可复现的脚本。
+
+- [树莓派的项目](https://hackaday.io/projects?tag=raspberry pi)
+
+该网站收集各种树莓派的项目，目前已经有1000多项了。
+
 - [ml5.js](https://ml5js.org/)
 
   一个基于 TensorFlow.js 的机器学习封装库，提供方便易用的 API，可以用于图像分类和视频分类等常见用途。
@@ -81,8 +89,13 @@
 
 
 
-
 ## 编程相关教程
+
+### 编译器/解析器
+
+- [TypeScript 写一个词法解析器](https://areknawo.com/the-lexer-in-js/)（英文）
+
+词法解析器（lexer）的作用是将源码转成一个个词元（token），本文介绍如何用 TypeScript 写一个简单的解析器。
 
 ### 调试工具/面试
 
@@ -189,6 +202,12 @@
 
 ### WEB前端相关
 
+- [Reactide](http://reactide.io/)
+
+![img](https://www.wangbase.com/blogimg/asset/201812/bg2018122820.jpg)
+
+Reactide 是 React Web 应用开发的专用 IDE。
+
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS)
 
 ![img](https://www.wangbase.com/blogimg/asset/201811/bg2018113020.jpg)
@@ -261,6 +280,12 @@ GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交�
 
 
 
+- 、[CopyTranslator](https://github.com/elliottzheng/CopyTranslator/blob/master/README_zh.md)
+
+![img](https://www.wangbase.com/blogimg/asset/201902/bg2019021521.jpg)
+
+PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自动调用谷歌翻译的 API，将其翻译成中文，粘贴出来就是中文。
+
 ## 著名博主
 
 - [阮一峰的日志](http://www.ruanyifeng.com/home.html)
@@ -277,6 +302,16 @@ GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交�
 
 
 ## 资源
+
+- [日本农村待售的房屋](https://inakanoseikatsu.com/山口県山口市・古民家・70万円/)
+
+![img](https://www.wangbase.com/blogimg/asset/201812/bg2018122816.jpg)
+
+看看日本乡下，几万元人民币可以买到的房子一大堆，都是买来就可以直接入住，还带土地产权。
+
+- [编译器基础](http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)（英文）
+
+本文用 JavaScript 语言演示如何写解析器，将代码转为抽象语法树 AST，然后再写编译器，将其转为汇编语言。
 
 - [收集对开发人员有用的定律、理论、原则和模式，比如摩尔定律、侯世达定律、墨菲定律等等](https://github.com/nusr/hacker-laws-zh)
 

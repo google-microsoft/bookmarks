@@ -211,6 +211,12 @@
 
 ### WEB前端相关
 
+- [前端开发精选工具库](http://frontendtools.com/)
+
+![img](https://www.wangbase.com/blogimg/asset/201903/bg2019030125.jpg)
+
+收集前端开发各方面的工具
+
 - [Reactide](http://reactide.io/)
 
 ![img](https://www.wangbase.com/blogimg/asset/201812/bg2018122820.jpg)
@@ -319,6 +325,10 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 
 
 ## 资源
+
+- [public-apis](https://github.com/toddmotto/public-apis)
+
+这个仓库收集免费的 API，
 
 - [科技资讯的聚合网站](https://github.com/ruanyf/weekly/issues/259)
 

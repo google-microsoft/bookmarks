@@ -3,17 +3,26 @@
 ## 源码工具:
 
 - [源码分析器 sourcetrail](https://www.sourcetrail.com/blog/open_source/)
+
+- [Vim Adventure](https://vim-adventures.com/)
+
+  ![img](https://www.wangbase.com/blogimg/asset/201903/bg2019030124.jpg)
+
+  通过游戏学习 Vim，看上去比较有趣
+
 - [软件架构设计工具](https://app.terrastruct.com/)
+
 - [在同一个局域网里面不同系统的机器之间互传文件](https://nitroshare.net/)
+
 - [谷歌云服务](https://cloud.google.com/blog/products/gcp/introducing-headless-chrome-support-in-cloud-functions-and-app-engine)继支持 Node 8.0 以后，内置 Puppeteer （无头版 Chrome 浏览器）。
 
 
 
+## 算法与数据结构
 
+- [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation)
 
-## 电商系统
-
-- [基于springboot+vue](https://github.com/microapp-store/linjiashop)
+使用动画的形式呈现解 LeetCode 题目的思路
 
 
 
@@ -301,7 +310,19 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 
 
 
+## 电商系统
+
+- [基于springboot+vue](https://github.com/microapp-store/linjiashop)
+
+
+
+
+
 ## 资源
+
+- [科技资讯的聚合网站](https://github.com/ruanyf/weekly/issues/259)
+
+该网页聚合多个英文科技咨询网站的消息，一个地方就能看到所有资讯
 
 - [日本农村待售的房屋](https://inakanoseikatsu.com/山口県山口市・古民家・70万円/)
 

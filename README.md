@@ -1,6 +1,28 @@
 # 有用网站收藏大全:
 
+## 操作系统相关
+
+- [AntzOS](https://github.com/CasterWx/AntzOS)
+
+一个用于实验和教学目的的操作系统，从零开始实现
+
+- [Sloth](https://github.com/sveinbjornt/Sloth)
+
+![img](https://www.wangbase.com/blogimg/asset/201903/bg2019032219.jpg)
+
+Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的文件和系统连接（socket），基本上就是 lsof 命令的图形界面
+
 ## 源码工具:
+
+- [EditorConfig](https://editorconfig.org/)
+
+生成编辑器配置文件，以便整个团队有同样的编辑器设置
+
+- [dbdiagram.io](https://dbdiagram.io/home)
+
+![img](https://www.wangbase.com/blogimg/asset/201904/bg2019040518.jpg)
+
+制作数据库关系图的在线工具
 
 - [源码分析器 sourcetrail](https://www.sourcetrail.com/blog/open_source/)
 
@@ -28,6 +50,12 @@
 
 ## 算法与数据结构
 
+- [Visu Algo](https://visualgo.net/zh)
+
+![img](https://www.wangbase.com/blogimg/asset/201904/bg2019040521.jpg)
+
+各种算法的动态演示网站
+
 - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 
 ![img](https://www.wangbase.com/blogimg/asset/201903/bg2019030821.jpg)
@@ -45,6 +73,12 @@
 
 
 ## 机器学习/操作
+
+- [Grokking Deep Learning](https://livebook.manning.com/#!/book/grokking-deep-learning/)
+
+![img](https://www.wangbase.com/blogimg/asset/201903/bg2019032223.jpg)
+
+深度学习入门教材的在线阅读。
 
 - [rrweb](https://github.com/rrweb-io/rrweb)
 
@@ -116,6 +150,16 @@
 
 ## 编程相关教程
 
+### 汇编语言
+
+- [PC Assembly Language](https://pacman128.github.io/pcasm/)
+
+介绍汇编语言的本科生入门教材，有中文译本，免费下载。
+
+- [ARM 汇编语言简介](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
+
+通过树莓派介绍 ARM 汇编语言的开源教材
+
 ### 编译器/解析器
 
 - [TypeScript 写一个词法解析器](https://areknawo.com/the-lexer-in-js/)（英文）
@@ -130,6 +174,14 @@
 - 
 
 ###   go语言教程
+
+- [Go 语言编程风格的最佳实践](https://dave.cheney.net/practical-go/presentations/qcon-china.html)（英文）
+
+作者谈了一些建议，如何编写可维护的 Go 语言代码。
+
+- [Go by Example](https://gobyexample.com/)
+
+通过示例学习 Go 语言的教程
 
 - [7天用Go从零实现Web框架Gee教程](https://geektutu.com/post/gee.html)
 
@@ -226,6 +278,16 @@
   
 
 ### WEB前端相关
+
+- [cleave.js](https://github.com/nosir/cleave.js)
+
+一个对输入框中用户输入的内容，进行格式化的 JS 库
+
+- [Flexbox布局详解](https://github.com/veedrin/horseshoe/blob/master/flex/%E4%B8%80%E7%BB%B4%E5%B8%83%E5%B1%80%E6%A8%A1%E5%9E%8BFlex.md)
+
+- [前端开发技术日报](https://github.com/kujian/frontendDaily)
+
+每日分享互联网上的前端技术、前端资讯
 
 - [前端开发精选工具库](http://frontendtools.com/)
 
@@ -341,6 +403,10 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 
 
 ## 资源
+
+- [GitNews](https://git.news/)
+
+该网站实时显示 GitHub 趋势、HackerNews 和 Reddit 里面出现的热门代码仓库
 
 - [你应该记住的 DNS 地址](https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/)（英文）
 

@@ -18,13 +18,29 @@
 
 
 
+## 安全/黑客相关
+
+- [黑客工具课程](https://hacker-tools.github.io/lectures/)
+
+麻省理工学院的入门课程，介绍 Linux 系统使用者需要掌握的各种基本工具，适合刚入门的初级用户。
+
+
+
 ## 算法与数据结构
+
+- [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+
+![img](https://www.wangbase.com/blogimg/asset/201903/bg2019030821.jpg)
+
+一个直观的算法可视化工具，你可以自由选择自己想学习的算法，每个算法它都清晰描绘了其原理和运作过程。
 
 - [LeetCode Animation](https://github.com/MisterBooo/LeetCodeAnimation)
 
 使用动画的形式呈现解 LeetCode 题目的思路
 
+- [数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+该网站收集各种数据结构，并将它们用可视化的形式表现出来。
 
 
 
@@ -325,6 +341,10 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 
 
 ## 资源
+
+- [你应该记住的 DNS 地址](https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/)（英文）
+
+作者介绍了几个常用的 DNS 服务器地址，简单谈了它们之间的差异
 
 - [public-apis](https://github.com/toddmotto/public-apis)
 

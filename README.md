@@ -459,7 +459,15 @@ Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界�
 
 ## 资源
 
+- [如何用 Puppeteer 破解滑块验证](https://medium.com/@filipvitas/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)（英文）
 
+![img](https://www.wangbase.com/blogimg/asset/201907/bg2019073004.jpg)
+
+很多网站现在都有滑块验证，识别用户是否为真人。但是，其实它们都可以用 Puppeteer 的自动化脚本破解，本文展示怎么做到这一点。
+
+- [如何使用 AWS S3 和 Cloudflare 托管免费网站](https://medium.com/better-programming/how-to-host-your-personal-website-for-free-3101c4ab2e49)（英文）
+
+本文一步步介绍如何将静态网站托管在 AWS S3 上面，然后用 Cloudflare 建立 CDN，这都是免费的
 
 - [SoloPi](https://github.com/alipay/SoloPi)
 

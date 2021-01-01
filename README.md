@@ -1,5 +1,13 @@
 # 有用网站收藏大全:
 
+## 计算机科学
+
+- [CPU 原理导论](http://www.gamezero.com/team-0/articles/math_magic/micro/index.html)
+
+一篇使用通俗语言讲解 CPU 原理的教程。
+
+
+
 ## 操作系统相关
 
 - [AntzOS](https://github.com/CasterWx/AntzOS)
@@ -54,6 +62,12 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 ## 算法与数据结构
 
+[普通人的微积分教程](https://www.geogebra.org/m/x39ys4d7)
+
+一个通俗微积分教程，带有大量可视化图形
+
+
+
 - [Visu Algo](https://visualgo.net/zh)
 
 ![img](https://www.wangbase.com/blogimg/asset/201904/bg2019040521.jpg)
@@ -77,6 +91,12 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 机器学习/操作
+
+- [机器学习漫画](https://cloud.google.com/products/ai/ml-comic-1/)
+
+![img](https://www.wangbase.com/blogimg/asset/201909/bg2019091605.jpg)
+
+谷歌推出的机器学习漫画，解释基本知识
 
 - [Automagica](https://github.com/oakwoodai/automagica)
 
@@ -197,6 +217,16 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 - [文章] [Chrome DevTools 的一些使用技巧](https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel)
 - 
 
+
+
+### python
+
+- [Python 语法笔记](https://thomas-cokelaer.info/tutorials/python/index.html)
+
+一个比较完整的 Python 教程，主要是语法方面的笔记
+
+
+
 ###   go语言教程
 
 - [Go 语言入门](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)（英文）
@@ -297,6 +327,10 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 ### Java/kotlin
 
+[node-jvm](https://github.com/YaroslavGaponov/node-jvm)
+
+一个用 Node.js 实现的 JVM，实现的非常简洁清晰，方便学习
+
 - [JCSprout](https://github.com/crossoverJie/JCSprout)
 
 一个收集 Java 核心知识的中文库。
@@ -310,6 +344,26 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
   
 
 ### WEB前端相关
+
+- [如何自己实现一个 React 框架](https://pomb.us/build-your-own-react/)（英文）
+
+本文一步步用简单的代码讲解，如何自己从头实现 React 框架
+
+- [HTTP Toolkit](https://httptoolkit.tech/mock/)
+
+这个工具可以拦截和查看 HTTP/HTTPS 请求,像finlder,charles
+
+
+
+- [如何学习 D3.js](https://wattenberger.com/blog/d3#intro)
+
+![img](https://www.wangbase.com/blogimg/asset/201909/bg2019090603.jpg)
+
+数据可视化库 D3.js 的在线英文教程
+
+- [licia](https://github.com/liriliri/licia)
+
+这个库收集 Web 开发的各种 JavaScript 小工具，使得开发者只用加载它一个库即可，跟 lodash 的思路有点像。
 
 - [lit-html](https://github.com/polymer/lit-html)
 
@@ -459,6 +513,16 @@ Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界�
 
 ## 资源
 
+- [video-object-removal](https://github.com/zllrunning/video-object-removal)
+
+![img](https://www.wangbase.com/blogimg/asset/201907/bg2019071804.jpg)
+
+这个工具使用机器学习算法，去除视频里面的运动物体
+
+- [hostyoself](https://github.com/schollz/hostyoself)
+
+一个开源工具，可以架设服务，连接本地计算机，让其他人可以通过互联网访问本地的文件夹和文件
+
 - [如何用 Puppeteer 破解滑块验证](https://medium.com/@filipvitas/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c)（英文）
 
 ![img](https://www.wangbase.com/blogimg/asset/201907/bg2019073004.jpg)
@@ -577,6 +641,18 @@ Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界�
 
   
   
+  [Amazon Sidewalk 协议](https://techcrunch.com/2019/09/25/amazon-sidewalk-is-a-new-long-range-wireless-network-for-your-stuff/)
   
+  ![img](https://www.wangbase.com/blogimg/asset/201910/bg2019100713.jpg)
+  
+  亚马逊公司提出，现有的无线通信协议都不理想：蓝牙和Wi-Fi 的覆盖范围太小，5G 的功耗太大且过于复杂。因此，它发明了一种新无线协议，叫做 Amazon Sidewalk。
+  
+  这种协议使用900兆赫频率，特点是低带宽、长距离（通信距离可以到一英里），设计用途是连接房屋内部和周围的所有物联网设备。
+  
+  亚马逊已经在洛杉矶发送了700台测试设备。一旦有大量接入点，可以创建覆盖面非常广的网络。
+  
+  ![img](https://www.wangbase.com/blogimg/asset/201910/bg2019100714.jpg)
+  
+  第一款使用该协议的产品，将是明年发售的狗牌 Ring Fetch。狗戴着这个设备，一旦失去信号，就表示狗已经远离了你，你就会收到警报。只要收到信号，就表示狗在距离你一英里的范围内
   
   

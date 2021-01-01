@@ -1,5 +1,15 @@
 # 有用网站收藏大全:
 
+## 云服务相关:
+
+- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)
+
+该仓库收集可以自己部署的开源 SaaS 服务
+
+
+
+
+
 ## 计算机科学
 
 - [CPU 原理导论](http://www.gamezero.com/team-0/articles/math_magic/micro/index.html)

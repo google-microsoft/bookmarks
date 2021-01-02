@@ -1,12 +1,22 @@
 # 有用网站收藏大全:
 
-## 云服务相关:
+## 云服务相关
+
+- [图灵派](https://turingpi.com/)（Turing Pi）
+
+![img](https://www.wangbase.com/blogimg/asset/202003/bg2020032501.jpg)
+
+图灵派是树莓派的一个集群板，好比机房里面的一个机架，可以用来自己架设 Kubernetes 集群
 
 - [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)
 
 该仓库收集可以自己部署的开源 SaaS 服务
 
+- [Kubernetes 中文指南](https://jimmysong.io/kubernetes-handbook/)
 
+![img](https://www.wangbase.com/blogimg/asset/202002/bg2020020602.jpg)
+
+本书是第一本系统整理的开源中文版 Kubernetes 参考资料，记录了本人从零开始学习和使用 Kubernetes 的历程，着重于总结和资料分享，同时也会有相关的概念解析
 
 
 
@@ -15,6 +25,12 @@
 - [CPU 原理导论](http://www.gamezero.com/team-0/articles/math_magic/micro/index.html)
 
 一篇使用通俗语言讲解 CPU 原理的教程。
+
+
+
+- [GameBoy 模拟器教程：使用 JavaScript 语言](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU)
+
+这组系列文章讲解，如何用 JavaScript 语言模拟 GameBoy 的硬件，可以用来了解硬件知识
 
 
 
@@ -101,6 +117,24 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 机器学习/操作
+
+- [简单粗暴 TensorFlow 2](https://tf.wiki/)
+
+这是一本简明的 TensorFlow 2 入门指导手册的中文版翻译，力图让具备一定机器学习及 Python 基础的开发者们快速上手 TensorFlow 2
+
+- [使用树莓派自制热像仪](https://medium.com/sausheong/build-a-thermal-camera-with-raspberry-pi-and-go-8f70451ad6a0)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202002/bg2020022513.jpg)
+
+作者介绍自己如何使用树莓派，制造了一个便宜的热像仪，可以感知人群中体温偏高的人
+
+- [tesseract.js](https://github.com/naptha/tesseract.js)
+
+一个 JavaScript 语言的 OCR 库，可以在网页运行，识别图片中的文字。它支持100多种文字，包括中文。这里还有[一篇教程](https://nanonets.com/blog/ocr-with-tesseract/)，介绍 Python 语言如何使用这个库。
+
+- [Hammerspoon](https://www.hammerspoon.org/)
+
+Mac 电脑的自动化操作工具，使用 Lua 语言编写脚本。
 
 - [机器学习漫画](https://cloud.google.com/products/ai/ml-comic-1/)
 
@@ -313,6 +347,10 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 ### futter开发
 
+- [CodePen 支持 Flutter 框架了](https://medium.com/flutter/announcing-codepen-support-for-flutter-bb346406fe50)
+
+CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 框架写的 [Nike 商城的 demo](https://codepen.io/joshuadeguzman/pen/jObrzJB)，可以在线编辑并且预览。想体验一下 Flutter 的同学 再也不用先在本地搭建环境了
+
 - [futteru在线UI布局studio](https://flutterstudio.app/)
 
 - [如何使用 Flutter 制作一个 iPhone 计算器？](https://hackernoon.com/how-to-build-iphone-calculator-using-flutter-fe934ce78d7e)（英文）
@@ -337,7 +375,11 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 ### Java/kotlin
 
-[node-jvm](https://github.com/YaroslavGaponov/node-jvm)
+- [Rust JVM](https://github.com/douchuan/jvm)
+
+一个示例项目，使用 Rust 语言写的 JVM 虚拟机
+
+- [node-jvm](https://github.com/YaroslavGaponov/node-jvm)
 
 一个用 Node.js 实现的 JVM，实现的非常简洁清晰，方便学习
 
@@ -354,6 +396,12 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
   
 
 ### WEB前端相关
+
+- [react-visual-editor](https://github.com/anye931123/react-visual-editor)
+
+![img](https://www.wangbase.com/blogimg/asset/202003/bg2020032603.jpg)
+
+React 的组件可视化拖拽页面编辑与代码生成工具，让不会 React 技术栈的人员可以通过拖拽生成页面。
 
 - [如何自己实现一个 React 框架](https://pomb.us/build-your-own-react/)（英文）
 
@@ -433,7 +481,11 @@ GoJS 是一个功能丰富的 JS 库，用于在浏览器上实现自定义交�
 
   可视化引擎 D3 的教程
 
-  
+  [D3.js 教程](https://observablehq.com/@d3/learn-d3)
+
+  D3.js 是功能强大、使用最广泛的 JavaScript 可视化图形库，这组九篇的系列文章是最新的入门教程。
+
+  ![img](https://www.wangbase.com/blogimg/asset/202003/bg2020032705.jpg)
 
 - [electron-playground](https://github.com/tal-tech/electron-playground)
 
@@ -509,6 +561,16 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 
 ## 开源管理系统
 
+- [NodeTube](https://github.com/mayeaux/nodetube)
+
+一个可以自己架设的 Youtube 替代品，可以上传视频在网页观看，基于 Node.js。
+
+- [monica](https://github.com/monicahq/monica)
+
+![img](https://www.wangbase.com/blogimg/asset/201912/bg2019122111.jpg)
+
+一个个人的 CRM（客户关系管理）系统，可以自己架设服务，管理你的所有人际关
+
 - [基于springboot+vue](https://github.com/microapp-store/linjiashop)
 
 - [web-flash](https://github.com/enilu/web-flash)
@@ -522,6 +584,42 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界面简洁，功能完整
 
 ## 资源
+
+- 、[avatarify](https://github.com/alievk/avatarify)
+
+一个开源软件，只需要提供一张头像照片，就可以生成人物开口讲话的视频
+
+- [GitHub 的10个使用小技巧](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+
+官方介绍10个 GitHub 使用小技巧，很实用，推荐阅读
+
+- [浏览器在 2020 年可以干什么？](https://github.com/luruke/browser-2020/blob/master/README.md)
+
+这个仓库收集各种新兴的浏览器 API，展示浏览器具备的能力。如果你想追踪 Web App 开发的前沿，可以关注它。上图是浏览器的画中画 API
+
+- [jira_clone](https://github.com/oldboyxx/jira_clone)
+
+![img](https://www.wangbase.com/blogimg/asset/202001/bg2020012901.jpg)
+
+使用 React + Node.js 写的项目管理工具 Jira 的克隆
+
+- [Nototo](https://www.nototo.app/)
+
+![img](https://www.wangbase.com/blogimg/asset/202001/bg2020011902.jpg)
+
+![img](https://www.wangbase.com/blogimg/asset/202001/bg2020011903.jpg)
+
+一个思路很新颖的笔记软件，以可视化的方式做笔记，目前只有 Web 版。一条笔记就是新建一块地，一个目录就是新建一个岛屿，打标签就是新建建筑物
+
+- [inlets](https://github.com/inlets/inlets)
+
+一个反向代理服务器，可以将内网的服务映射到公网
+
+- [Killersheep](https://github.com/vim/killersheep)
+
+![img](https://www.wangbase.com/blogimg/asset/201912/bg2019121711.jpg)
+
+一个 Vim 游戏，主要目的是展示 Vim 8.2 的新功能
 
 - [video-object-removal](https://github.com/zllrunning/video-object-removal)
 

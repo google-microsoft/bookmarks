@@ -114,7 +114,15 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 ## 算法与数据结构
 
-[设计模式](https://refactoringguru.cn/design-patterns)
+- [Raft 共识的动画讲解](http://thesecretlivesofdata.com/raft/)
+
+通过一步步的动画，讲解 Raft 协议如何保证分布式集群的一致性，以及选举 leader 的过程。
+
+- [哈希算法的种类](https://pradeeploganathan.com/blockchain/hashing/)（英文）
+
+这篇文章用相对通俗的语言，介绍了目前常用的几种哈希算法，以及它们各自适用的场景
+
+- [设计模式](https://refactoringguru.cn/design-patterns)
 
 ![img](https://www.wangbase.com/blogimg/asset/202005/bg2020053101.jpg)
 
@@ -159,6 +167,12 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 机器学习/操作
+
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR)
+
+![img](https://www.wangbase.com/blogimg/asset/202007/bg2020070801.jpg)
+
+一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字
 
 - [robotjs](https://github.com/octalmage/robotjs)
 
@@ -368,6 +382,10 @@ Mac 电脑的自动化操作工具，使用 Lua 语言编写脚本。
 
 
 ###   Rust学习教程
+
+- [写给 JavaScript 程序员的 Rust 教程](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)（英文）
+
+一组系列文章，使用 JavaScript 作为例子，介绍 Rust 语言。
 
 - [sonic](https://github.com/valeriansaliou/sonic)
 

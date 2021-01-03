@@ -28,6 +28,16 @@
 
 ## 计算机科学
 
+- [Compiler Explorer](https://godbolt.org/)
+
+![img](https://www.wangbase.com/blogimg/asset/202008/bg2020080605.jpg)
+
+一个在线的编译器学习工具，可以显示高级语言对应的汇编代码，支持多种语言
+
+- [seafox](https://github.com/KFlash/seafox)
+
+一个 TypeScript 写的 JavaScript 解析器，也就是说使用 JavaScript 解析 JavaScript，支持最新的 ES2020 语法
+
 - [虚拟内存简介](https://www.internalpointers.com/post/introduction-virtual-memory)（英语）
 
 应用程序无法直接使用物理内存，都是使用操作系统提供的虚拟内存。本文介绍虚拟内存的基本知识
@@ -73,6 +83,12 @@
 Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的文件和系统连接（socket），基本上就是 lsof 命令的图形界面
 
 ## 源码工具:
+
+
+
+- [如何自己实现一个全文搜索引擎](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)（英文）
+
+作者通过一个简单的例子，讲解全文搜索引擎的原理，自己如何实现倒排索引。举例用的是 Go 语言，代码很简单，接近伪代码
 
 - [Toolfx.com](https://www.toolfk.com/)
 
@@ -167,6 +183,12 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 机器学习/操作
+
+- [没有博士学位者的 TensorFlow 和深度学习教程](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
+
+![img](https://www.wangbase.com/blogimg/asset/202007/bg2020071705.jpg)
+
+谷歌发布的英文教程，没有高深的数学，向初学者介绍 TensorFlow 和深度学习
 
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 
@@ -383,6 +405,12 @@ Mac 电脑的自动化操作工具，使用 Lua 语言编写脚本。
 
 ###   Rust学习教程
 
+- [如何使用 Rust 开发单页应用 SPA](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202008/bg2020081204.jpg)
+
+单页应用（SPA）都是使用 JavaScript 开发，但是有了 WebAssembly 以后，其他语言也可以编译成 JavaScript。本文就完全使用 Rust 语言开发上图的 SPA，后端开发者现在也可以写前端了
+
 - [写给 JavaScript 程序员的 Rust 教程](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)（英文）
 
 一组系列文章，使用 JavaScript 作为例子，介绍 Rust 语言。
@@ -470,6 +498,18 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
   
 
 ### WEB前端相关
+
+- [ts-migrate](https://github.com/airbnb/ts-migrate)
+
+Airbnb 公司新的开源项目，可以将 JavaScript 代码转成 TypeScript 代码
+
+[React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html)
+
+![img](https://www.wangbase.com/blogimg/asset/202007/bg2020072402.jpg)
+
+Adobe 公司的 React 组件库，用法非常简单干净。
+
+
 
 - [Scroll to text fragment 生成器](https://github.com/chunliu/sttf-url-generator)
 
@@ -672,6 +712,18 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界面简洁，功能完整
 
 ## 资源
+
+- [isoflow](https://isoflow.io/)
+
+![img](https://www.wangbase.com/blogimg/asset/202008/bg2020081601.jpg)
+
+一个绘制示意图的在线工具
+
+- [JS 1024 竞赛](https://js1024.fun/results/2020)
+
+![img](https://www.wangbase.com/blogimg/asset/202008/bg2020080201.jpg)
+
+这是代码长度不超过1024字节的 JS 程序的比赛，2020年的结果已经公布了。第一名是一个[钢琴键盘](https://js1024.fun/demos/2020/16)，第二名和第三名是动画渲染，第四名是一个游戏
 
 - [Youtube 免费软件开发教程](https://www.tutorialist.io/)
 

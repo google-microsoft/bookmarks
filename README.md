@@ -763,7 +763,13 @@ Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界�
 
 ## 资源
 
-[谷歌搜索的10个小技巧](https://medium.com/@shalithasuranga/10-hidden-features-in-google-search-83b347b48157)（英文）
+- [Vimium 插件的使用方法](https://codefaster.substack.com/p/look-ma-no-mouse-vimium)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020100701.jpg)
+
+Vimium 是 Chrome 浏览器的一个插件，可以只用键盘来操作网页，本文是它的教程。
+
+- [谷歌搜索的10个小技巧](https://medium.com/@shalithasuranga/10-hidden-features-in-google-search-83b347b48157)（英文）
 
 ![img](https://www.wangbase.com/blogimg/asset/202009/bg2020092004.jpg)
 

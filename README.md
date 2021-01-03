@@ -2,6 +2,12 @@
 
 ## 云服务相关
 
+- [我如何建立自己的 Kubernetes 集群](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202005/bg2020050104.jpg)
+
+作者先介绍了 Kubernetes 的概念（分布式基础设施之上的虚拟系统层），然后介绍如何家用老电脑（上图）组建一个集群。
+
 - [图灵派](https://turingpi.com/)（Turing Pi）
 
 ![img](https://www.wangbase.com/blogimg/asset/202003/bg2020032501.jpg)
@@ -21,6 +27,14 @@
 
 
 ## 计算机科学
+
+- [regex](https://github.com/xindoo/regex)
+
+一个示例项目，从0开始，使用 Java 实现一个正则表达式引擎，核心代码只有200多行，用来学习编译原理
+
+- [makeJs](https://github.com/zuluoaaa/makeJs)
+
+一个示例项目，用 JS 写的 JS 解释器，可以用来学习用编译原理
 
 - [CPU 原理导论](http://www.gamezero.com/team-0/articles/math_magic/micro/index.html)
 
@@ -87,6 +101,16 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 算法与数据结构
+
+- [JavaScript 的迷宫生成算法](https://medium.com/swlh/how-to-create-a-maze-with-javascript-36f3ad8eebc1)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202005/bg2020052106.jpg)
+
+本文介绍如何用 JavaScript 生成一个迷宫，写得很容易懂，每一步都有示例
+
+- [普通人的正则表示式教程](https://refrf.shreyasminocha.me/)
+
+一本免费的英文教程，向初学者介绍正则表达式，实例较多
 
 [普通人的微积分教程](https://www.geogebra.org/m/x39ys4d7)
 
@@ -396,6 +420,10 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
   
 
 ### WEB前端相关
+
+- [如何在 Node.js 环境安装 Selenium](https://dev.to/oyetoket/how-to-setup-selenium-on-node-environment-30bc)（英文）
+
+Selenium 是通用的浏览器测试框架，本文介绍如何在 Node.js 里面使用它
 
 - [react-visual-editor](https://github.com/anye931123/react-visual-editor)
 

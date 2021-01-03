@@ -28,11 +28,21 @@
 
 ## 计算机科学
 
+[浮点数原理](https://timroderick.com/floating-point-introduction/)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202009/bg2020090403.jpg)
+
+本文较为通俗地解释，什么是浮点数，为什么这么设计。
+
+
+
 - [Compiler Explorer](https://godbolt.org/)
 
 ![img](https://www.wangbase.com/blogimg/asset/202008/bg2020080605.jpg)
 
 一个在线的编译器学习工具，可以显示高级语言对应的汇编代码，支持多种语言
+
+
 
 - [seafox](https://github.com/KFlash/seafox)
 
@@ -63,6 +73,12 @@
 
 
 ## 操作系统相关
+
+- [Linux 从零开始](http://www.linuxfromscratch.org/lfs/view/10.0-rc1/prologue/foreword.html)（Linux From Scratch）
+
+一本英文的免费书籍，讲述如何从源码一步步编译一个自己的 Linux 系统，帮助你深入理解 Linux。
+
+
 
 - [使用 Raspberry Pi 学习操作系统开发](https://s-matyukevich.github.io/raspberry-pi-os/)
 
@@ -130,6 +146,10 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 ## 算法与数据结构
 
+- [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
+
+100 多道 LeetCode 算法题目的中文解释
+
 - [Raft 共识的动画讲解](http://thesecretlivesofdata.com/raft/)
 
 通过一步步的动画，讲解 Raft 协议如何保证分布式集群的一致性，以及选举 leader 的过程。
@@ -183,6 +203,16 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 机器学习/操作
+
+- [Headless recorder](https://github.com/checkly/headless-recorder)
+
+![img](https://www.wangbase.com/blogimg/asset/202009/bg2020092505.jpg)
+
+一个 Chrome 浏览器插件，自动记录你的操作，转成 Puppeteer 或 Playwright 脚本，从而实现浏览器操作自动化。
+
+- [Puppeteer & Playwright 学习教程](https://theheadless.dev/)
+
+一份英语教程，介绍无头浏览器操作库 Puppeteer 和 Playwright 的用法
 
 - [没有博士学位者的 TensorFlow 和深度学习教程](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
 
@@ -477,6 +507,10 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
 
 ### Java/kotlin
 
+- [Release](https://github.com/vercel/release)
+
+一个 Node.js 库，一键生成软件包的 changelog。
+
 - [Rust JVM](https://github.com/douchuan/jvm)
 
 一个示例项目，使用 Rust 语言写的 JVM 虚拟机
@@ -498,6 +532,22 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
   
 
 ### WEB前端相关
+
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+
+![img](https://www.wangbase.com/blogimg/asset/202008/bg2020083002.jpg)
+
+一个在线的塔防小游戏，通过 CSS Flexbox 的练习，击退一波波进攻的敌人。
+
+- [visx](https://airbnb.io/visx/)
+
+![img](https://www.wangbase.com/blogimg/asset/202009/bg2020092401.jpg)
+
+Airbnb 推出的一套数据可视化组件库，基于 D3 和 React。
+
+- [10个你可能不知道的 Web API](https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn)（英文）
+
+Chrome 浏览器提供的 Web API 非常多，本文介绍其中10个。
 
 - [ts-migrate](https://github.com/airbnb/ts-migrate)
 
@@ -712,6 +762,10 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界面简洁，功能完整
 
 ## 资源
+
+[谷歌搜索的10个小技巧](https://medium.com/@shalithasuranga/10-hidden-features-in-google-search-83b347b48157)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202009/bg2020092004.jpg)
 
 - [isoflow](https://isoflow.io/)
 

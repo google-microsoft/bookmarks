@@ -42,6 +42,16 @@ Podman 是 RedHat 公司开发的容器引擎，用来替代 Docker。本文是�
 
 ## 计算机科学
 
+- [RegExper](https://regexper.com/)
+
+![img](https://www.wangbase.com/blogimg/asset/202012/bg2020120108.jpg)
+
+该网站可以将正则表达式转成解释图片。
+
+- [Hello DNS](https://powerdns.org/hello-dns/)
+
+一个英文的 DNS 协议教程，介绍 DNS 协议的概念和细节。
+
 - [编写解释器](http://craftinginterpreters.com/contents.html)（Crafting interpreters）
 
 ![img](https://www.wangbase.com/blogimg/asset/202010/bg2020102704.jpg)
@@ -233,6 +243,12 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 机器学习/操作
+
+- [神经网络的6种基本结构](https://lionbridge.ai/articles/6-types-of-neural-networks-every-data-scientist-must-know/)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202012/bg2020120203.jpg)
+
+本文介绍学习神经网络必须要了解的6种基本结构，上图就是最简单的感知器（Perceptron）
 
 - [volute](https://github.com/webfansplz/volute)
 
@@ -434,6 +450,12 @@ Mac 电脑的自动化操作工具，使用 Lua 语言编写脚本。
 
 
 ###   go语言教程
+
+- [Play with Go](https://play-with-go.dev/guides.html)
+
+![img](https://www.wangbase.com/blogimg/asset/202011/bg2020111404.jpg)
+
+Go 语言教程网站，提供一系列互动式入门教程。
 
 - [Go 语言入门](https://milapneupane.com.np/2019/07/06/learning-golang-from-zero-to-hero/)（英文）
 
@@ -834,6 +856,12 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界面简洁，功能完整
 
 ## 资源
+
+- [2020年的100项最佳发明](https://time.com/collection/best-inventions-2020/)
+
+![img](https://www.wangbase.com/blogimg/asset/202011/bg2020112203.jpg)
+
+《时代》杂志评选的今年100项最佳发明
 
 - [Diode](https://support.diode.io/article/ss32engxlq)
 

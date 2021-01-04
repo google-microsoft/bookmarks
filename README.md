@@ -833,6 +833,36 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 
 ## 开源管理系统
 
+node.js电商平台：
+
+http://www.spurtcommerce.com/download
+
+
+
+https://www.reactioncommerce.com/index
+
+
+
+https://docs.reactioncommerce.com/docs/1.16.0/installation-osx
+
+
+
+Java:[broadleaf](https://www.broadleafcommerce.com/)电商平台 
+
+https://www.broadleafcommerce.com/
+
+https://github.com/BroadleafCommerce/BroadleafCommerce
+
+
+
+
+
+- [Personal Management System](https://github.com/Volmarg/personal-management-system)
+
+![img](https://www.wangbase.com/blogimg/asset/202012/bg2020122702.jpg)
+
+一个 Web 开源应用，可以自己搭建服务，将个人信息（笔记、代码事项、密码、日程安排、联系人等等）放在一个地方管理。
+
 - [NodeTube](https://github.com/mayeaux/nodetube)
 
 一个可以自己架设的 Youtube 替代品，可以上传视频在网页观看，基于 Node.js。

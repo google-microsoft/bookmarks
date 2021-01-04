@@ -146,6 +146,10 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 ## 算法与数据结构
 
+- [如何写一个最简单的 React 实现](https://zserge.com/posts/worst-react-ever/)（英文）
+
+作者讲解如何自己实现一个最简单的 React，支持 JSX 语法和一些基本 API，压缩后代码不超过 1KB。本文可以用来了解 React 原理。
+
 - [labuladong 的算法小抄](https://labuladong.gitbook.io/algo/)
 
 100 多道 LeetCode 算法题目的中文解释
@@ -533,6 +537,10 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
 
 ### WEB前端相关
 
+- 、[CSS 3D 示例](https://polypane.app/css-3d-transform-examples/)
+
+该网页收集一些常用 CSS 3D 示例。
+
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ![img](https://www.wangbase.com/blogimg/asset/202008/bg2020083002.jpg)
@@ -762,6 +770,12 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界面简洁，功能完整
 
 ## 资源
+
+- [FreePN](https://www.freepn.org/)
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020101703.jpg)
+
+一个点对点的 VPN 网络，通过用户共享带宽实现加密访问。
 
 - [Vimium 插件的使用方法](https://codefaster.substack.com/p/look-ma-no-mouse-vimium)（英文）
 

@@ -2,6 +2,20 @@
 
 ## 云服务相关
 
+- [Docker 指南](https://www.robertcooper.me/docker-guide)
+
+![img](https://www.wangbase.com/blogimg/asset/202011/bg2020111301.jpg)
+
+![img](https://www.wangbase.com/blogimg/asset/202011/bg2020111302.jpg)
+
+一篇英文的 Docker 教程，解释最重要的一些概念，帮助读者学会使用 Docker 进行应用程序开发。
+
+- [如何用 Podman 替代 Docker](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)（英文）
+
+![img](https://www.wangbase.com/blogimg/asset/202011/bg2020112102.jpg)
+
+Podman 是 RedHat 公司开发的容器引擎，用来替代 Docker。本文是一篇简单的上手指南。
+
 - [我如何建立自己的 Kubernetes 集群](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41)（英文）
 
 ![img](https://www.wangbase.com/blogimg/asset/202005/bg2020050104.jpg)
@@ -28,7 +42,13 @@
 
 ## 计算机科学
 
-[浮点数原理](https://timroderick.com/floating-point-introduction/)（英文）
+- [编写解释器](http://craftinginterpreters.com/contents.html)（Crafting interpreters）
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020102704.jpg)
+
+一本如何开发编程语言的解释器的英文开源教材，相当于教你怎么发明一种自己的编程语言。
+
+- [浮点数原理](https://timroderick.com/floating-point-introduction/)（英文）
 
 ![img](https://www.wangbase.com/blogimg/asset/202009/bg2020090403.jpg)
 
@@ -73,6 +93,12 @@
 
 
 ## 操作系统相关
+
+- [Code with me](https://plugins.jetbrains.com/plugin/14896-code-with-me)
+
+![img](https://www.wangbase.com/blogimg/asset/202011/bg2020112501.jpg)
+
+IntelliJ IDEA 的官方插件，允许多人在 IDE 里面实时协同编程
 
 - [Linux 从零开始](http://www.linuxfromscratch.org/lfs/view/10.0-rc1/prologue/foreword.html)（Linux From Scratch）
 
@@ -207,6 +233,12 @@ Mac 系统的桌面应用，显示当前所有正在运行的进程、打开的�
 
 
 ## 机器学习/操作
+
+- [volute](https://github.com/webfansplz/volute)
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020103105.jpg)
+
+一个语音工具的集成软件，文档教你如何在树莓派上使用 Node.js，搭建自己的语音助手，可以识别语音，也可以将文本转为语音。
 
 - [Headless recorder](https://github.com/checkly/headless-recorder)
 
@@ -376,6 +408,10 @@ Mac 电脑的自动化操作工具，使用 Lua 语言编写脚本。
 
 ### 编译器/解析器
 
+[用 JS 写一个 JS 解释器](https://juejin.cn/post/6898093501376905230)（中文）
+
+本文解释了 JS 解释器如何将源代码转换成 AST（抽象语法树），并给出了一个简单的、便于理解的解释器实现。
+
 - [TypeScript 写一个词法解析器](https://areknawo.com/the-lexer-in-js/)（英文）
 
 词法解析器（lexer）的作用是将源码转成一个个词元（token），本文介绍如何用 TypeScript 写一个简单的解析器。
@@ -511,6 +547,10 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
 
 ### Java/kotlin
 
+- [Java 8 之后的语法增强](https://advancedweb.hu/new-language-features-since-java-8-to-15/)（英文）
+
+本文介绍了从 Java 9 到 Java 15 的主要新增语法
+
 - [Release](https://github.com/vercel/release)
 
 一个 Node.js 库，一键生成软件包的 changelog。
@@ -536,6 +576,30 @@ CodePen 现在可以在网页上运行 Flutter 代码，这里有一个 Flutter 
   
 
 ### WEB前端相关
+
+- [H5-Dooring](https://github.com/MrXujiang/h5-Dooring)
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020103111.jpg)
+
+一个可视化制作 H5 页面的在线工具
+
+- [Sharkle](https://sharkle.com/)
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020101806.jpg)
+
+点击网页上的按钮，它会随机打开一个有趣codepen.io的特效。
+
+- [Coded Mails](https://codedmails.com/)
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020101302.jpg)
+
+电子邮件的 HTML 模版很难写，因为客户端有着各种限制。该网站提供各种主题的响应式电子邮件模版下载
+
+- [KakaCSS](https://renzhezhilu.gitee.io/kakacss/)
+
+![img](https://www.wangbase.com/blogimg/asset/202010/bg2020101707.jpg)
+
+在任意网站复制内容，粘贴到这个网站，会给出所复制内容的 CSS 样式代码
 
 - 、[CSS 3D 示例](https://polypane.app/css-3d-transform-examples/)
 
@@ -770,6 +834,10 @@ PDF 文件即时翻译工具。只要选中 PDF 文件里面的文字，就自�
 Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界面简洁，功能完整
 
 ## 资源
+
+- [Diode](https://support.diode.io/article/ss32engxlq)
+
+Diode 可以将本机（localhost）的网站公开到互联网上，提供一个二级域名，使得外部用户可以访问。
 
 - [FreePN](https://www.freepn.org/)
 

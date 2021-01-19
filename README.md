@@ -4,6 +4,10 @@
 
 ## 云服务相关
 
+- [Linux 加固指南](https://madaidans-insecurities.github.io/guides/linux-hardening.html)（Linux Hardening Guide）
+
+这篇英语长文整理了各种 Linux 的调整步骤，使得它变得更安全
+
 - [Docker 指南](https://www.robertcooper.me/docker-guide)
 
 ![img](https://www.wangbase.com/blogimg/asset/202011/bg2020111301.jpg)
@@ -43,6 +47,12 @@ Podman 是 RedHat 公司开发的容器引擎，用来替代 Docker。本文是�
 
 
 ## 计算机科学
+
+- [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
+
+这个仓库收集一些真实的大数据分析案例，用来了解如何处理不同行业的分析指标。目前有4个案例，包括1亿条淘宝用户行为数据分析、7000条租房数据分析等等。
+
+
 
 - [RegExper](https://regexper.com/)
 
@@ -452,6 +462,12 @@ Mac 电脑的自动化操作工具，使用 Lua 语言编写脚本。
 
 
 ###   go语言教程
+
+- [Go 语言高性能编程](https://github.com/geektutu/high-performance-go)
+
+![img](https://www.wangbase.com/blogimg/asset/202101/bg2021010103.jpg)
+
+免费的中文电子书，作者介绍了 Go 程序提高性能的一些技巧。（
 
 - [Play with Go](https://play-with-go.dev/guides.html)
 
@@ -888,6 +904,10 @@ https://github.com/BroadleafCommerce/BroadleafCommerce
 Java + MySQL 开发的一个论坛程序，自适应手机端和电脑端，界面简洁，功能完整
 
 ## 资源
+
+- [Hello GitHub（第 57 期）](https://github.com/521xueweihan/HelloGitHub/blob/master/content/57/HelloGitHub57.md)
+
+分享GitHub上有趣，入门级的开源项目的月刊，帮你找到编程的乐趣。
 
 - [2020年的100项最佳发明](https://time.com/collection/best-inventions-2020/)
 

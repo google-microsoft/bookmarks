@@ -1,6 +1,18 @@
 # 有用网站收藏大全:
 
+## 辅助工具:
 
+[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)
+
+![img](asserts/images/bg2021021410.jpg)
+
+一个通过单词的打字输入加强记忆的在线工具，可以选择词库
+
+[345Tool.com](https://www.345tool.com/zh-hans)
+
+![img](asserts/images/bg2021021411.jpg)
+
+该网站收集一些可以提高编程效率的在线小工具
 
 ## 云服务相关
 
@@ -47,6 +59,10 @@ Podman 是 RedHat 公司开发的容器引擎，用来替代 Docker。本文是�
 
 
 ## 计算机科学
+
+- [Build your own x](https://github.com/danistefanovic/build-your-own-x)
+
+这个仓库专门收集各种教程，教你如何自己实现各种软件，比如 Web 服务器、BT 下载客户端、Git、数据库等等。
 
 - [bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)
 
@@ -509,7 +525,9 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
   Uber 公司开源了该公司的《Go 语言风格规范》
   
-  
+- [Notify](https://github.com/nikoksr/notify)
+
+  一个 Go 语言的库，用来通过各种渠道向用户发通知，支持 Discord、Email、Microsoft Teams、Slack、Telegram 等。
 
 
 
@@ -1138,3 +1156,31 @@ Vimium 是 Chrome 浏览器的一个插件，可以只用键盘来操作网页�
   第一款使用该协议的产品，将是明年发售的狗牌 Ring Fetch。狗戴着这个设备，一旦失去信号，就表示狗已经远离了你，你就会收到警报。只要收到信号，就表示狗在距离你一英里的范围内
   
   
+
+[我开发付费 Chrome 插件的经历](https://blog.t9t.io/star-history-2021-01-21/)（中文）
+
+![img](asserts/images/bg2021012216.jpg)
+
+作者介绍了在 Chrome 商店发布付费插件的过程，总收入有几百美元。（[@timqian](https://github.com/ruanyf/weekly/issues/1611) 投稿）
+
+
+
+[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+
+![img](asserts/images/bg2021012002.jpg)
+
+一个将网页存档的工具，可以将 HTML、CSS、JS、图片、媒体文件都保存下来，供日后查看。这里是[教程](https://nixintel.info/osint-tools/make-your-own-internet-archive-with-archive-box/)。
+
+
+
+[X6](https://x6.antv.vision/zh)
+
+![img](asserts/images/bg2021012801.jpg)
+
+蚂蚁集团数据可视化工具 AntV 旗下的图编辑引擎，用来在网页上生成 SVG 图形。（[@NewByVector](https://github.com/ruanyf/weekly/issues/1615) 投稿）
+
+
+
+[Supercookie](https://github.com/jonasstrehle/supercookie)
+
+越来越多的浏览器限制使用 Cookie，这个库演示了如何使用网页图标 Favicon 来追踪用户，效果惊人

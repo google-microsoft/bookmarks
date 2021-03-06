@@ -1,19 +1,5 @@
 # 有用网站收藏大全:
 
-## 辅助工具:
-
-[Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)
-
-![img](asserts/images/bg2021021410.jpg)
-
-一个通过单词的打字输入加强记忆的在线工具，可以选择词库
-
-[345Tool.com](https://www.345tool.com/zh-hans)
-
-![img](asserts/images/bg2021021411.jpg)
-
-该网站收集一些可以提高编程效率的在线小工具
-
 ## 云服务相关
 
 - [Linux 加固指南](https://madaidans-insecurities.github.io/guides/linux-hardening.html)（Linux Hardening Guide）
@@ -131,6 +117,18 @@ Podman 是 RedHat 公司开发的容器引擎，用来替代 Docker。本文是�
 
 
 ## 操作系统相关
+
+[UTM](https://mac.getutm.app/)
+
+![img](asserts/images/bg2021022701.jpg)
+
+MacOS 的虚拟机应用，可以很轻松地在苹果电脑上运行 Windows 和 Linux，属于 qemu 的 UI 封装，另有 [iOS 的虚拟机](https://github.com/utmapp/UTM)，在 iPhone 和 iPad 上运行 Windows。
+
+[Cockpit](https://cockpit-project.org/)
+
+![img](asserts/images/bg2021022002.jpg)
+
+Linux 服务器的 Web 控制台
 
 - [Code with me](https://plugins.jetbrains.com/plugin/14896-code-with-me)
 
@@ -531,41 +529,7 @@ Go 语言教程网站，提供一系列互动式入门教程。
 
 
 
-###   Rust学习教程
-
-- [如何使用 Rust 开发单页应用 SPA](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)（英文）
-
-![img](https://www.wangbase.com/blogimg/asset/202008/bg2020081204.jpg)
-
-单页应用（SPA）都是使用 JavaScript 开发，但是有了 WebAssembly 以后，其他语言也可以编译成 JavaScript。本文就完全使用 Rust 语言开发上图的 SPA，后端开发者现在也可以写前端了
-
-- [写给 JavaScript 程序员的 Rust 教程](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)（英文）
-
-一组系列文章，使用 JavaScript 作为例子，介绍 Rust 语言。
-
-- [sonic](https://github.com/valeriansaliou/sonic)
-
-一个 Rust 语言写的搜索服务器，可以用作 Elasticsearch 的替代品
-
-- [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)
-
-- [如何写一个脚本语言的虚拟机？](https://blog.subnetzero.io/post/building-language-vm-part-00/)（英文）
-
-  这组系列文章介绍脚本语言的运行虚拟机（VM）怎么写。
-
-- [电子书] [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-
-  Rust 语言入门教程
-
-  
-
-### 小众语言学习
-
-- https://docs.julialang.org/en/v1/
-
-- [Erlang by Example](http://erlangbyexample.org/)
-
-  Erlang 语言的入门教程。
+###   [Rust学习教程](./README.rust.md)
 
 
 

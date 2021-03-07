@@ -6,6 +6,18 @@
 
 单页应用（SPA）都是使用 JavaScript 开发，但是有了 WebAssembly 以后，其他语言也可以编译成 JavaScript。本文就完全使用 Rust 语言开发上图的 SPA，后端开发者现在也可以写前端了
 
+- https://codeburst.io/learning-rust-by-contrasting-with-typescript-part-1-afb2e3f6ead8
+
+  使用typescript作为例子,学习Rust语言
+
+  
+
+- https://github.com/Mercateo/rust-for-node-developers
+
+  使用 node 作为例子，学习Rust 语言。
+
+  
+
 - [写给 JavaScript 程序员的 Rust 教程](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)（英文）
 
 一组系列文章，使用 JavaScript 作为例子，介绍 Rust 语言。
@@ -23,3 +35,4 @@
 - [电子书] [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
   Rust 语言入门教程
+

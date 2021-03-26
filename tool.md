@@ -16,6 +16,14 @@
 
 
 
+[真实世界的密码学](https://www.manning.com/books/real-world-cryptography)（Real-world Cryptography）
+
+![img](asserts/images/bg2021030803.jpg)
+
+本书使用简单的语言和示例，解释了普通用户在日常生活中遇到的密码学问题，可以免费在线阅读。
+
+
+
 # 工具:
 
 1、[Beaker](https://beakerbrowser.com/)

@@ -22,6 +22,14 @@
 
 本书使用简单的语言和示例，解释了普通用户在日常生活中遇到的密码学问题，可以免费在线阅读。
 
+[数据结构与算法视频](https://space.bilibili.com/50003725/video)
+
+![img](asserts/images/bg2021032205.jpg)
+
+一组不错的数据结构与算法讲解视频，涉及动态数组、二叉树、图论、动画引擎等等。从国外网站搬运到 B 站，带有中文字幕。（[@jizai](https://github.com/ruanyf/weekly/issues/1685) 投稿）
+
+
+
 
 
 # 工具:
